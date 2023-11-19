@@ -7,7 +7,7 @@ From commit ChristanVersteeg/python_projects@f68f81a to ChristanVersteeg/python_
 # Latest Release: https://github.com/ChristanVersteeg/OBSKeyTriggeredTextOverlay/releases
 
 # Setup
-1. Download Python 3.11.6. Make sure that it's added to your PATH. Python's 3.11.6 installer (for Windows) is given with this release for ease of acess.
+1. Download Python 3.11.6. Make sure that it's added to your PATH. Python's 3.11.6 installer (for Windows) is given with this release for ease of access. You will also need to install the keyboard library. You can do this by going to your cmd (once Python is installed) and typing `pip install keyboard` in it.
 2. If you do not have OBS yet, download the latest release (30.0.0 as of release) https://obsproject.com/download
 3. Open your OBS, then `Tools > Scripts`, within that menu, click `Python Settings`, from there click browse and assigned your installed Python 3.11.6.
 ![image](https://github.com/ChristanVersteeg/OBSKeyTriggeredTextOverlay/assets/90323125/bc5d2e2f-e691-4aea-b24f-4438eed3eaa2)
